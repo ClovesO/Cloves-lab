@@ -1,2 +1,2 @@
 //Calculo de juros
-return c*(i/100);
+return (c*i)/100;
